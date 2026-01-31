@@ -1,0 +1,7 @@
+function generateImage() {
+  alert("Image generation will start");
+}
+
+function generateVideo() {
+  alert("Video generation will start");
+}
